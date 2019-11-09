@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patrick Bezzina, Launches Site"
+title: "Site launched"
 date: 2019-11-09
 ---
 
